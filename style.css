@@ -1,0 +1,47 @@
+* {
+		margin: 0;
+		padding: 0;
+		}
+	body {
+		font-family: Arial, Helvetica, sans-serif;
+		}
+	
+	#container{
+				width: 1000px;
+				margin:0 auto;
+	}
+	
+	#header{
+				background-image:url(images/suling2.jpg);
+				background-repeat:no-repeat;
+				background-position:center;
+				background-color:#FFFF99;
+				width: 1000px;
+				height:160px;
+	}
+		
+	#menu{
+			background-color:#D2691E;
+			width:1000px;
+			height: 35px;
+		
+	}
+
+	#content{
+				background-color: #EBEBEB;
+				width:700px;
+				float:left;
+	}
+	
+	#right{
+			width:300px;
+			background-color: #EBEBEB;
+			float: left;
+	}
+	
+	#footer{
+			background-image:url(images/footer.jpg);
+			width: 1000px;
+			height:128px;
+			float:left;
+	}
